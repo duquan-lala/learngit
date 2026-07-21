@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 工作区 暂存区 仓库
 nano add commit
 checkout reset HEAD reset
+今天学习分支的管理
