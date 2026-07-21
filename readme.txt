@@ -8,4 +8,5 @@ Git has a mutable index called stage.
 nano add commit
 checkout reset HEAD reset
 今天学习分支的管理
-增加一点新内容
+搞错一点新内容
+
